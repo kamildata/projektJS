@@ -4,6 +4,7 @@
 
 <br>
 Tematem projektu zaliczeniowego jest gra napisana za pomocą html, css oraz JavaScript
+Link do strony z projektem : https://kamildata.github.io/projektJS/
 
 Gra prezentuje się następująco:
 <br>
